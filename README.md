@@ -11,7 +11,7 @@ Imaginemos una situación en la que un desarrollador necesita implementar una fu
 
 ## Solución:
 
-El patrón Memento propone una solución al encapsular el estado de un objeto en un objeto separado llamado Memento. Aí como en la película, Johnny utiliza implantes de memoria como sus "Mementos" para almacenar datos y liberar espacio cuando sea necesario, permitiendo así gestionar su carga de información.
+El patrón Memento propone una solución al encapsular el estado de un objeto en un objeto separado llamado Memento. Así como en la película, Johnny utiliza implantes de memoria como sus "Mementos" para almacenar datos y liberar espacio cuando sea necesario, permitiendo así gestionar su carga de información.
 
 ## Estructura:
 
